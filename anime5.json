@@ -87,7 +87,7 @@
       "SubtitleTrackSelectionBehavior": "all",
       "VideoAvgBitrate": 0,
       "VideoColorMatrixCode": 0,
-      "VideoEncoder": "hevc_nvenc",
+      "VideoEncoder": "x265",
       "VideoFramerateMode": "vfr",
       "VideoGrayScale": false,
       "VideoScaler": "swscale",
